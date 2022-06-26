@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashant-shandilya
 - 👀 I’m a MERN stack developer.
-- 🌱 I’m currently learning Blockchain.
+- 🌱 I’m currently learning Blockchain and D.S.A.
 - 💞️ I’m looking to collaborate on ... Web development projects.
 - 📫 How to reach me ... greatpk2012@gmail.com.
 
